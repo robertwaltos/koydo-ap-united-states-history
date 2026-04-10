@@ -1,0 +1,5 @@
+Initial release of Koydo AP United States History Prep.
+
+• Practice questions
+• Score tracking
+• AI tutor integration
